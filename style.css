@@ -80,7 +80,7 @@ h1, h2, h3 {
   -webkit-background-clip: text;
   background-image: url(./imgs/heading-img.jfif);
   font-size: 40px;
-  color: transparent;
+  color: black;
   padding-top: 10px;
 }
 
