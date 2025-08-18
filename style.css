@@ -8,9 +8,10 @@
 }
 
 :root {
-  --red: #ec5242;
-  --grey: #272a31;
-  --light: #d3d3d3;
+  --primary-color: #0a66c2;  
+  --secondary-color: #ffffff; 
+  --accent-color: #f1f5f9;    
+  --text-color: #333333;     
 }
 
 .topnav {
